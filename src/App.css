@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  text-align: center;
+}
+p{
+  margin: 2vh 0.25vw 0 0.3vw;
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
+
+input[type='radio']{
+  margin: 2.5vh 0 0 0;
+}
+.genderRadio{
+  display: flex;
+  flex-direction: row;
+  margin-left: 43vw;
+}
+
+option{
+  background-color: rgb(20, 2, 39);
+  color: whitesmoke;
+  font-weight: bolder;
+  padding: 10px;
+  margin: 1vh 0;
+}
